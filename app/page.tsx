@@ -17,7 +17,7 @@ export default function Home() {
           Go to Dashboard
         </a>
         <a
-          href="/auth/login"
+          href="/login"
           className="  px-6 py-3 border border-gray-300 rounded-lg shadow hover:bg-gray-100 transition"
         >
           Login
